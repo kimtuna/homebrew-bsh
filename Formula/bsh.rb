@@ -9,7 +9,7 @@ class Bsh < Formula
   end
 
   def install
-    bin.install "bsh"
+    bin.install "bsh/bsh" => "bsh"
   end
 
   test do
