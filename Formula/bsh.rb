@@ -5,7 +5,7 @@ class Bsh < Formula
   
   on_macos do
     url "https://github.com/kimtuna/bsh/releases/download/v0.1.4/bsh-darwin-arm64.tar.gz"
-    sha256 "213c873a240a7bdbefca069294654c7871c02f0dbe7e5bd3be8e5a60cd2c43da"
+    sha256 "f3b871129fbd10c8c285d25fbb98266b7cac68c5dfbd8df6b191fb842951df18"
   end
 
   def install
