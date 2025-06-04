@@ -9,7 +9,8 @@ class Bsh < Formula
   end
 
   def install
-    bin.install "bsh" => "bsh"
+    bin.install "bsh"
+    chmod 0755, bin/"bsh"
   end
 
   test do
