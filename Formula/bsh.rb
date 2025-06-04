@@ -1,7 +1,7 @@
 class Bsh < Formula
   desc "Blockchain Server Hosting CLI"
   homepage "https://github.com/kimtuna/bsh"
-  version "0.1.0"
+  version "0.1.3"
   license "MIT"
 
   on_macos do
