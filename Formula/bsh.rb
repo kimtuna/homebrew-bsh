@@ -1,5 +1,5 @@
 class Bsh < Formula
-  desc "Blockchain Server Hosting CLI"
+  desc "Blockchain Server Hosting CLI tool"
   homepage "https://github.com/kimtuna/bsh"
   version "0.1.5"
   license "MIT"
