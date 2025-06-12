@@ -7,7 +7,7 @@ class Bsh < Formula
   on_macos do
     if Hardware::CPU.arm?
       url "https://github.com/kimtuna/bsh/releases/download/v0.1.5/bsh-darwin-arm64.tar.gz"
-      sha256 "b44753217e1598c021649a403bf79cc479c8dbeec24aa9338ca615647a9a192c"
+      sha256 "c9229b5f436d0040fc832185ec000db9bcbc8da266a758c041d87f864be70ac9"
     end
   end
 
